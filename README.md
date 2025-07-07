@@ -18,6 +18,6 @@
 `bin console dbal:run-sql "select * from product"`
 
 ## Another way to create such CRUd faster:
-1- `symfony new webapp-project --webapp` by adding --webapp flag to the command
-2- `bin/console make:entity` creating the entity with all proberities
-3- `bin/console make:crud` Select the entity then the console will create th eentire CRUD functionality
+##### 1- `symfony new webapp-project --webapp` by adding --webapp flag to the command
+##### 2- `bin/console make:entity` creating the entity with all proberities
+##### 3- `bin/console make:crud` Select the entity then the console will create th eentire CRUD functionality
